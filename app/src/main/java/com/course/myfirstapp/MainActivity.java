@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
         //진짜 바뀌나?? test중,,,
+        //역으로 바뀌는지 test..
     }
 
 }
