@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         //진짜 바뀌나?? test중,,,
         //역으로 바뀌는지 test..
+        //마지막 test
     }
 
 }
